@@ -1,6 +1,6 @@
 # Grandma's Tavern — Privacy Policy
 
-Last updated: 30 September 2026
+Last updated: 3 October 2026
 
 ## 1. Scope and developer
 
@@ -22,6 +22,14 @@ When you host or join a Play a Friend match, the game connects over an encrypted
 
 If you buy the full game, Google Play processes the payment and your payment details. We do not receive your payment card details. The game asks Google Play whether the purchase is owned in order to unlock content.
 
+
+### Google Play Games achievements (Android)
+
+On Android, the game can use Google Play Games Services to show your achievements. When you are signed in to Play Games, the game tells Google which in-game achievements you have earned. Google processes this along with your Play Games profile and player ID under its own privacy policy, and shows achievements in Google Play Games. We receive only aggregate Play Games statistics from Google, not your account details. The game does not use Play Games saved games or cloud saves. You can sign out of, or manage, Play Games in the Google Play Games settings on your device.
+
+### Rating prompt (Android)
+
+After some wins, the game may ask Google Play to show its in-app rating card. Google handles any rating or review you leave; the game does not see it.
 ## 3. Information you choose to send
 
 If you contact us for support or send feedback, we receive what you choose to provide, such as your email address or account name, message, screenshots, saved-game files and device details. We use this information to respond, investigate problems and improve the game. Please send only information needed for your request.
