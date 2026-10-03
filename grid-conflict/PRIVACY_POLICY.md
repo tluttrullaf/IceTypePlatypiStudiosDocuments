@@ -1,6 +1,6 @@
 # Grid Conflict — Privacy Policy
 
-Last updated: 30 September 2026
+Last updated: 3 October 2026
 
 ## 1. Scope and developer
 
@@ -8,11 +8,11 @@ This policy explains how Grid Conflict handles information in its Android and Wi
 
 ## 2. Information handled by the game
 
-The game does not require an account and does not automatically collect or transmit personal information to us. It does not include advertising, advertising identifiers, remote analytics or third-party tracking services.
+The game does not require an account and does not automatically collect or transmit personal information to us. The game does not include advertising or advertising identifiers. We do not operate our own remote gameplay analytics service. Optional Google Play Games features and the Google SDK data processing described below are provided by Google.
 
 The game stores data locally on your device to provide its features. This includes settings, saved matches, move history and replays, recordings, tournament progress, faction and map unlocks, achievements, guided tutorial progress, and gameplay statistics. If you play the **Insane** War difficulty, the game also keeps a small local profile of your War play habits (for example how early you attack or which units you buy) so the computer opponent can adapt. You can clear it at any time with **Settings > Reset AI memory**. None of these records are automatically uploaded to us.
 
-The game requests internet access for two optional features: **Play with a Friend** and the **Google Play purchase** of the full game. Single-player modes work without a connection. The game does not request access to your contacts, location, camera or microphone.
+The game uses internet access for optional Play with a Friend, Google Play purchases, and Google Play Games sign-in and achievements. Single-player gameplay remains available without signing into Play Games. The game does not request access to your contacts, location, camera or microphone.
 
 ### Play with a Friend
 
@@ -21,6 +21,14 @@ To start a friend match, the host's device posts a connection offer to a short-l
 ### Purchases
 
 If you buy the full game, Google Play processes the payment and your payment details. We do not receive your payment card details. The game asks Google Play whether the purchase is owned in order to unlock content, and ownership can be restored on another device signed in to the same Google account.
+
+### Google Play Games and reviews
+
+On Android, you may use a Google Play Games profile to sign in and synchronize achievements. Google processes the Play Games player identifier and achievement progress to provide these features. Achievements already earned locally may be synchronized after sign-in. The game does not operate its own player-account database or developer-hosted cloud-save service, and we do not retain player data on our own servers for this feature.
+
+Google's Play Games SDK also collects analytics and diagnostic information for SDK stability and product improvements. Play Games data is encrypted in transit. Google controls storage and retention under its policies. Your profile visibility is controlled through your Play Games settings. You can delete individual game data or your Play Games profile using Google's controls; see [Delete your Play Games profile and data](https://support.google.com/googleplay/answer/9130646).
+
+The optional in-app rating prompt uses Google Play's review flow. Any rating or review you submit is handled by Google Play under its policies.
 
 ## 3. Backups, replays and information you choose to send
 
@@ -32,7 +40,7 @@ The email, store or other service you use processes your submission under its ow
 
 ## 4. Sharing and platform services
 
-We do not sell personal information or use it for targeted advertising. The game does not share local saves or gameplay records with third parties. During Play with a Friend, the moves you make in that match are sent to the other player.
+We do not sell personal information or use it for targeted advertising. Local saves remain on your device. If you use Google Play Games, achievement progress is sent to Google as described above. During Play with a Friend, match moves are sent to the other player.
 
 Support information you submit may be processed by the communication or hosting providers used to receive and manage your request. We may disclose information when required by law or necessary to protect legal rights or security.
 
