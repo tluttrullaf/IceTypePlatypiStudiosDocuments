@@ -1,10 +1,10 @@
 # Grid Conflict — Privacy Policy
 
-Last updated: 3 October 2026
+Last updated: 23 October 2026
 
 ## 1. Scope and developer
 
-This policy explains how Grid Conflict handles information in its Android and Windows versions. The game is maintained by the developer using the GitHub account **tluttrullaf** ("we", "us"). This policy covers the game and information you voluntarily send us for support.
+This policy explains how Grid Conflict handles information in its Android, iOS and Windows versions. The game is maintained by the developer using the GitHub account **tluttrullaf** ("we", "us"). This policy covers the game and information you voluntarily send us for support.
 
 ## 2. Information handled by the game
 
@@ -12,7 +12,7 @@ The game does not require an account and does not automatically collect or trans
 
 The game stores data locally on your device to provide its features. This includes settings, saved matches, move history and replays, recordings, tournament progress, faction and map unlocks, achievements, guided tutorial progress, and gameplay statistics. If you play the **Insane** War difficulty, the game also keeps a small local profile of your War play habits (for example how early you attack or which units you buy) so the computer opponent can adapt. You can clear it at any time with **Settings > Reset AI memory**. None of these records are automatically uploaded to us.
 
-The game uses internet access for optional Play with a Friend, Google Play purchases, and Google Play Games sign-in and achievements. Single-player gameplay remains available without signing into Play Games. The game does not request access to your contacts, location, camera or microphone.
+The game uses internet access for optional features only: **Play with a Friend**, the **purchase of the full game** through Google Play on Android or the Apple App Store on iOS, and, on Android, Google Play Games sign-in and achievements. Single-player modes work without a connection and without signing into Play Games. The game does not request access to your contacts, location, camera or microphone.
 
 ### Play with a Friend
 
@@ -20,7 +20,7 @@ To start a friend match, the host's device posts a connection offer to a short-l
 
 ### Purchases
 
-If you buy the full game, Google Play processes the payment and your payment details. We do not receive your payment card details. The game asks Google Play whether the purchase is owned in order to unlock content, and ownership can be restored on another device signed in to the same Google account.
+If you buy the full game, Google Play (Android) or the Apple App Store (iOS) processes the payment and your payment details. We do not receive your payment card details. The game asks the store whether the purchase is owned in order to unlock content, and ownership can be restored on another device signed in to the same Google account or Apple Account. On iOS the game keeps a small local record of the completed purchase so the unlock works offline.
 
 ### Google Play Games and reviews
 
@@ -32,7 +32,7 @@ The optional in-app rating prompt uses Google Play's review flow. Any rating or 
 
 ## 3. Backups, replays and information you choose to send
 
-**Export save backup** writes your local saves to a file at a location you choose. **Copy match replay** and room codes are placed on your device clipboard. The game does not send these anywhere; you decide whether to keep, share or delete them.
+**Export save backup** writes your local saves to a file at a location you choose. On iOS the backup is written to the game's own folder, which you can open and copy from in the Files app under Grid Conflict. **Copy match replay** and room codes are placed on your device clipboard. The game does not send these anywhere; you decide whether to keep, share or delete them.
 
 If you contact us for support or send feedback, we receive what you choose to provide, such as your email address, message, screenshots, replays, backup files and device details. We use this information to respond, investigate problems and improve the game. Please send only information needed for your request.
 
@@ -44,9 +44,10 @@ We do not sell personal information or use it for targeted advertising. Local sa
 
 Support information you submit may be processed by the communication or hosting providers used to receive and manage your request. We may disclose information when required by law or necessary to protect legal rights or security.
 
-Google Play and Android may independently process installation, transaction, diagnostic or usage information according to Google's policies and your settings. We may receive feedback and reports Google makes available to developers.
+Google Play and Android, or the Apple App Store and iOS, may independently process installation, transaction, diagnostic or usage information according to Google's or Apple's policies and your settings. We may receive feedback and reports Google or Apple make available to developers.
 
 - [Google Privacy Policy](https://policies.google.com/privacy)
+- [Apple Privacy Policy](https://www.apple.com/legal/privacy/)
 - [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/)
 - [GitHub General Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
 
@@ -54,11 +55,11 @@ GitHub hosts this policy and processes visits to it under its own privacy statem
 
 ## 5. Storage, security, retention and deletion
 
-Local saves, settings and the Insane profile remain on your device until replaced or removed. To delete them on Android, open Settings, select Apps, select Grid Conflict, open Storage, and choose Clear storage or Clear data. Names vary by device. This erases saved progress and preferences. Uninstalling normally removes app-private data.
+Local saves, settings and the Insane profile remain on your device until replaced or removed. To delete them on Android, open Settings, select Apps, select Grid Conflict, open Storage, and choose Clear storage or Clear data. Names vary by device. On iOS, delete the app from the Home Screen, or remove individual backup files in the Files app under Grid Conflict. This erases saved progress and preferences. Uninstalling normally removes app-private data.
 
 Backup files, replays you copied, and device backups are managed separately. Use the relevant file, clipboard or backup controls to remove those copies. We cannot remotely delete data held only on your device.
 
-Android's app isolation and your device security protect local app storage. No storage or communication method can be guaranteed completely secure.
+Android's and iOS's app isolation and your device security protect local app storage. No storage or communication method can be guaranteed completely secure.
 
 We retain voluntarily submitted support information only as long as reasonably necessary to resolve your request, investigate related issues or meet legal obligations. You may request deletion using the contact method below, subject to applicable legal requirements. There is no in-game account to delete.
 
@@ -70,7 +71,7 @@ The game does not ask players to provide their age or personal information durin
 
 You can play without creating an account, connecting online or submitting feedback. You can remove local game data using the steps above.
 
-For privacy questions or requests about information you have sent us, contact the developer using the support email listed under **App support** on Grid Conflict's Google Play listing. Include the game name and a description of your request.
+For privacy questions or requests about information you have sent us, contact the developer using the support email listed under **App support** on Grid Conflict's Google Play listing or the support link on its App Store page. Include the game name and a description of your request.
 
 ## 8. Changes to this policy
 
