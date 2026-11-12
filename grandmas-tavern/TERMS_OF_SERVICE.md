@@ -1,18 +1,18 @@
 # Grandma's Tavern — Terms of Service
 
-Last updated: 30 September 2026
+Last updated: 12 November 2026
 
 These terms apply to Grandma's Tavern (also titled Grandma's Tavern: A Pinochle Roguelite), maintained by the developer using the GitHub account **tluttrullaf** ("we", "us"). By installing or playing the game you agree to these terms. If you do not agree, do not use the game.
 
 ## 1. License
 
-We grant you a personal, non-exclusive, non-transferable, revocable license to install and play the game for your own non-commercial entertainment, on devices you own or control, subject to these terms and the rules of the store you obtained it from (such as Google Play).
+We grant you a personal, non-exclusive, non-transferable, revocable license to install and play the game for your own non-commercial entertainment, on devices you own or control, subject to these terms and the rules of the store you obtained it from (such as Google Play or the Apple App Store).
 
 You may not copy, resell, redistribute, rent, or publicly host the game or its artwork, audio, music or text, and you may not reverse engineer or modify it except where applicable law expressly allows.
 
 ## 2. Purchases
 
-The full game may be unlocked with a one-time Google Play purchase. Payments, refunds and purchase history are handled by Google Play under its terms and refund policies. Unlocked content is tied to the Google account used for the purchase.
+The full game may be unlocked with a one-time purchase through Google Play on Android or the Apple App Store on iOS. Payments, refunds and purchase history are handled by that store under its terms and refund policies. Unlocked content is tied to the Google account or Apple Account used for the purchase, and **Restore purchase** in the unlock window restores it on another device signed in to the same account.
 
 ## 3. Play a Friend
 
@@ -36,4 +36,4 @@ How the game handles information is described in the [Privacy Policy](PRIVACY_PO
 
 ## 8. Contact
 
-Contact the developer using the support email listed under **App support** on Grandma's Tavern's Google Play listing.
+Contact the developer using the support email listed under **App support** on Grandma's Tavern's Google Play listing or the support link on its App Store page.

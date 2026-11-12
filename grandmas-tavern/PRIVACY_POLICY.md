@@ -1,18 +1,18 @@
 # Grandma's Tavern — Privacy Policy
 
-Last updated: 3 October 2026
+Last updated: 12 November 2026
 
 ## 1. Scope and developer
 
-This policy explains how Grandma's Tavern (also titled Grandma's Tavern: A Pinochle Roguelite) handles information in its Android and Windows versions. The game is maintained by the developer using the GitHub account **tluttrullaf** ("we", "us"). This policy covers the game and information you voluntarily send us for support.
+This policy explains how Grandma's Tavern (also titled Grandma's Tavern: A Pinochle Roguelite) handles information in its Android, iOS and Windows versions. The game is maintained by the developer using the GitHub account **tluttrullaf** ("we", "us"). This policy covers the game and information you voluntarily send us for support.
 
 ## 2. Information handled by the game
 
-The game does not require an account and does not automatically collect or transmit personal information to us. The current Android game does not include advertising, advertising identifiers, remote analytics or third-party tracking services.
+The game does not require an account and does not automatically collect or transmit personal information to us. The game does not include advertising, advertising identifiers, remote analytics or third-party tracking services.
 
 The game stores data locally on your device to provide its features. This includes preferences, saved games, tutorial progress, class and run state, item discoveries, achievements, unlocks, gameplay statistics and records. These records let you resume play, retain settings and track progress. They are not automatically uploaded to us.
 
-The game requests internet access for two optional features: **Play a Friend** and the **Google Play purchase** of the full game. Single-player modes work without a connection. The game does not request access to your contacts, precise location, camera or microphone.
+The game uses internet access for optional features only: **Play a Friend**, the **purchase of the full game** through Google Play on Android or the Apple App Store on iOS, and, on Android, Google Play Games achievements. Single-player modes work without a connection. The game does not request access to your contacts, precise location, camera or microphone.
 
 ### Play a Friend (online relay)
 
@@ -20,7 +20,7 @@ When you host or join a Play a Friend match, the game connects over an encrypted
 
 ### Purchases
 
-If you buy the full game, Google Play processes the payment and your payment details. We do not receive your payment card details. The game asks Google Play whether the purchase is owned in order to unlock content.
+If you buy the full game, Google Play (Android) or the Apple App Store (iOS) processes the payment and your payment details. We do not receive your payment card details. The game asks the store whether the purchase is owned in order to unlock content, and ownership can be restored on another device signed in to the same Google account or Apple Account. On iOS the game keeps a small local record of the confirmed purchase (the product and transaction identifiers) so the full game stays unlocked offline; it is not sent to us.
 
 
 ### Google Play Games achievements (Android)
@@ -30,6 +30,9 @@ On Android, the game can use Google Play Games Services to show your achievement
 ### Rating prompt (Android)
 
 After some wins, the game may ask Google Play to show its in-app rating card. Google handles any rating or review you leave; the game does not see it.
+
+On iOS, the game does not use Google Play Games or an in-app rating prompt. **Rate the Game** in Settings opens the game's App Store page.
+
 ## 3. Information you choose to send
 
 If you contact us for support or send feedback, we receive what you choose to provide, such as your email address or account name, message, screenshots, saved-game files and device details. We use this information to respond, investigate problems and improve the game. Please send only information needed for your request.
@@ -42,9 +45,10 @@ We do not sell personal information or use it for targeted advertising. The game
 
 Support information you submit may be processed by the communication or hosting providers used to receive and manage your request. We may disclose information when required by law or necessary to protect legal rights or security.
 
-Google Play and Android may independently process installation, transaction, diagnostic or usage information according to Google's policies and your settings. We may receive feedback and reports Google makes available to developers. These platform services are separate from the game's local storage.
+Google Play and Android, or the Apple App Store and iOS, may independently process installation, transaction, diagnostic or usage information according to Google's or Apple's policies and your settings. We may receive feedback and reports Google or Apple make available to developers. These platform services are separate from the game's local storage.
 
 - [Google Privacy Policy](https://policies.google.com/privacy)
+- [Apple Privacy Policy](https://www.apple.com/legal/privacy/)
 - [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/)
 - [GitHub General Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
 
@@ -52,11 +56,11 @@ GitHub hosts this policy and processes visits to it under its own privacy statem
 
 ## 5. Storage, security, retention and deletion
 
-Local saves and preferences remain on your device until replaced or removed. To delete them on Android, open Settings, select Apps, select Grandma's Tavern, open Storage, and choose Clear storage or Clear data. Names vary by device. This erases saved progress and preferences. Uninstalling normally removes app-private data.
+Local saves and preferences remain on your device until replaced or removed. To delete them on Android, open Settings, select Apps, select Grandma's Tavern, open Storage, and choose Clear storage or Clear data. Names vary by device. On iOS, delete the app from the Home Screen. This erases saved progress and preferences. Uninstalling normally removes app-private data.
 
 Copies held in device backups or files you separately copy or send are managed separately. Use the relevant backup, file or service controls to remove those copies. We cannot remotely delete data held only on your device.
 
-Android's app isolation and your device security protect local app storage. No storage or communication method can be guaranteed completely secure.
+Android's and iOS's app isolation and your device security protect local app storage. No storage or communication method can be guaranteed completely secure.
 
 We retain voluntarily submitted support information only as long as reasonably necessary to resolve your request, investigate related issues or meet legal obligations. You may request deletion using the contact method below, subject to applicable legal requirements. There is no in-game account to delete.
 
@@ -68,7 +72,7 @@ The game does not ask players to provide their age or personal information durin
 
 You can play without creating an account or submitting feedback. You can remove local game data using the steps above.
 
-For privacy questions or requests about information you have sent us, contact the developer using the support email listed under **App support** on Grandma's Tavern's Google Play listing. Include the game name and a description of your request.
+For privacy questions or requests about information you have sent us, contact the developer using the support email listed under **App support** on Grandma's Tavern's Google Play listing or the support link on its App Store page. Include the game name and a description of your request.
 
 ## 8. Changes to this policy
 
